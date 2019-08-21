@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AssemblyLabel
+D Assembly Label
+K assembly sticker
+F ~
+$ENDCMP
+#
+$CMP Fiducial
+D Fiducial
+K fiducial
+$ENDCMP
+#
+$CMP GND
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GND2
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP GND_Earth
+D GROUND earth power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP MountingHole
+D Mounting Hole
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP MountingHole_Pad
+D Mounting Hole with Pad
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP PWR_FLAG
+D general power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Test_Point
+D Test Point
+K test point tp
+F ~
+$ENDCMP
+#
+#End Doc Library

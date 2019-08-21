@@ -1,0 +1,108 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Battery_Holder
+D Battery Holder
+K battery
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer Polar
+K buzzer
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CF
+D Capacitor 3-terminal (feed through)
+K cap capacitor
+$ENDCMP
+#
+$CMP C_polarized
+D Polarized capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND24
+D Two pin crystal, two ground/package pins (pin2 and 4)
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Diode_ANK
+D Diode
+K diode
+$ENDCMP
+#
+$CMP Diode_KA
+D Diode
+K diode
+$ENDCMP
+#
+$CMP Diode_Photo
+D Photo Diode
+K photo diode
+$ENDCMP
+#
+$CMP Diode_Schottky_KA
+D Schottky diode
+K diode schottky
+$ENDCMP
+#
+$CMP Diode_TVS
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
+$CMP Q_NMOS_GSD
+D Transistor N-MOSFET
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Q_NPN_BEC_Prebias
+D Transistor NPN with prebias resistors
+K npn transistor prebias
+$ENDCMP
+#
+$CMP Q_PNP_BEC
+D Transistor PNP
+K pnp transistor
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP SW_DIP_x06
+D 6x DIP Switch, Single Pole Single Throw (SPST) switch
+K dip switch
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K push button
+$ENDCMP
+#
+$CMP TPD2E2U06-Q1
+D Automotive Dual-Channel High-Speed ESD Protection Device
+K diode TVS
+$ENDCMP
+#
+#End Doc Library

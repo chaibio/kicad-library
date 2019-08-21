@@ -1,0 +1,101 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_01x01
+D Generic connector, single row, 01x01
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x02
+D Generic connector, single row, 01x02
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x03
+D Generic connector, single row, 01x03
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x04
+D Generic connector, single row, 01x04
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x05
+D Generic connector, single row, 01x05
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06
+D Generic connector, single row, 01x06
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x18
+D Generic connector, single row, 01x18
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x30
+D Generic connector, single row, 01x30
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x32
+D Generic connector, single row, 01x32
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x40
+D Generic connector, single row, 01x40
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x50
+D Generic connector, single row, 01x50
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_02x04
+D Generic connector, dual row, 02x04
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_Hirose_DM3AT-SF-PEJM5
+D Connector microSD Card Push-Push Top Mount
+K microSD Hirose
+F http://www.mouser.com/ds/2/185/e60900232-38395.pdf
+$ENDCMP
+#
+$CMP Conn_JTAG_2x10
+D 20-pin JTAG Connector
+K JTAG
+$ENDCMP
+#
+$CMP Conn_RJ45_Stewart_SI-60062-F
+D Connector RJ45
+K Ethernet RJ45
+$ENDCMP
+#
+$CMP Conn_USB_2.0
+D Connector USB 2.0
+K USB
+$ENDCMP
+#
+$CMP Conn_USB_2.0_OTG
+D Connector USB 2.0 OTG (mini/micro)
+K USB
+$ENDCMP
+#
+#End Doc Library

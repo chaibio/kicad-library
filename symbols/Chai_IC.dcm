@@ -1,0 +1,337 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4528-1
+D Precision, Ultralow Noise, RRIO, Zero-Drift Op Amp
+K opamp low noise zero drift RRIO
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4528-1_4528-2.pdf
+$ENDCMP
+#
+$CMP ADA4528-2
+D Precision, Ultralow Noise, RRIO, Zero-Drift Op Amp
+K opamp low noise zero drift RRIO
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4528-1_4528-2.pdf
+$ENDCMP
+#
+$CMP ADS124S06
+D Low-Power, Low-Noise, Highly Integrated, 6-Channel, 4-kSPS, 24-Bit, Delta-Sigma ADC with PGA and Voltage Reference
+K ADC ADC24 delta-sigma
+F http://www.ti.com/lit/gpn/ads124s06
+$ENDCMP
+#
+$CMP AM57x8
+D AM57x8 TI Sitara Processors
+K sitara am5718 am5728
+F http://www.ti.com/product/AM5728
+$ENDCMP
+#
+$CMP AP2152
+D 0.5A Dual Channel Current-Limited Power Switch
+K power switch
+F https://www.diodes.com/assets/Datasheets/AP2142_52.pdf
+$ENDCMP
+#
+$CMP AP3019A
+D White LED Step-Up Converter
+K led supply backlight
+F https://www.diodes.com/assets/Datasheets/AP3019A.pdf
+$ENDCMP
+#
+$CMP CD4067B
+D Analog 16 to 1 Multiplexer
+K MUX MUX16
+F http://www.ti.com/lit/ds/symlink/cd4067b.pdf
+$ENDCMP
+#
+$CMP DDR3_x16
+D DDR3/DDR3L x16 DRAM Memory
+K DRAM x16 DDR3
+$ENDCMP
+#
+$CMP DP83848_JK
+D PHYTER Mini / LS Single Port 10/100MB/s Ethernet Transceiver
+K power supply
+F http://www.ti.com/lit/ds/symlink/dp83848j.pdf
+$ENDCMP
+#
+$CMP EEPROM_CAT24C256
+D EEPROM with I2C, 256Kb (32K x 8)
+K eeprom
+F http://www.onsemi.com/pub/Collateral/CAT24C256-D.PDF
+$ENDCMP
+#
+$CMP IFX1763XEJV50
+D Wide Input Range Low Noise 500mA 5V LDO
+K low noise LDO regulator
+F https://www.infineon.com/dgdl/Infineon-IFX1763_V50-DS-v01_11-EN.pdf?fileId=5546d4624bbf60fb014bcaa8e8c04f28
+$ENDCMP
+#
+$CMP INA230
+D Bidirectional Current/Power Monitor with I2C Interface
+K power monitor
+F www.ti.com/lit/ds/symlink/ina230.pdf
+$ENDCMP
+#
+$CMP LM7321
+D Rail-to-Rail Input and Output +/-15V, High-Output Current and Unlimited Capacitive Load Operational Amplifier
+K opamp RRIO
+F http://www.ti.com/lit/gpn/lm7321
+$ENDCMP
+#
+$CMP LM7705
+D Low-Noise Negative Bias Generator
+K bias regulator charge pump
+F www.ti.com/lit/ds/symlink/lm7705.pdf
+$ENDCMP
+#
+$CMP LP2985
+D 150-mA Low-noise Low-dropout Regulator With Shutdown
+K low noise LDO regulator
+F http://www.ti.com/lit/ds/symlink/lp2985.pdf
+$ENDCMP
+#
+$CMP LP5907
+D 250-mA Ultra-Low-Noise LDO
+K low noise LDO regulator
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LT1368
+D Precision RRIO Dual Op Amp
+K opamp RRIO
+F www.analog.com/media/en/technical-documentation/data-sheets/1366fb.pdf
+$ENDCMP
+#
+$CMP LTC2445
+D 24-Bit High Speed 8 Channel ADC with Selectable Speed/Resolution
+K ADC ADC24 delta-sigma
+F www.analog.com/media/en/technical-documentation/data-sheets/2444589fc.pdf
+$ENDCMP
+#
+$CMP MAX11200
+D 24-Bit, Single-Channel, Ultra-Low-Power, Delta-Sigma ADCs with GPIO
+K ADC ADC24 delta-sigma
+F http://datasheets.maximintegrated.com/en/ds/MAX11200-MAX11210.pdf
+$ENDCMP
+#
+$CMP MAX6070
+D Low-Noise, High-Precision Voltage Reference
+K voltage reference
+F https://datasheets.maximintegrated.com/en/ds/MAX6070-MAX6071.pdf
+$ENDCMP
+#
+$CMP MAX6126
+D Ultra-High-Precision, Ultra-Low-Noise Voltage Reference
+K voltage reference
+F https://datasheets.maximintegrated.com/en/ds/MAX6126.pdf
+$ENDCMP
+#
+$CMP MC74VHC1GT125
+D Noninverting Buffer / CMOS Logic Level Shifter with TTL Input and Output Enable
+K buffer level shift ttl
+F https://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF
+$ENDCMP
+#
+$CMP MC74VHC1GT126
+D Noninverting Buffer / CMOS Logic Level Shifter with TTL Input and Output Enable
+K buffer level shift ttl
+F http://www.onsemi.com/pub/Collateral/MC74VHC1GT126-D.PDF
+$ENDCMP
+#
+$CMP MC74VHC1GT50
+D Noninverting Buffer / CMOS Logic Level Shifter with TTL Input
+K buffer level shift ttl
+F http://www.onsemi.com/pub/Collateral/MC74VHC1GT50-D.PDF
+$ENDCMP
+#
+$CMP MCP79410
+D Battery-Backed I2C Real-Time Clock/Calendar with SRAM, EEPROM and Protected EEPROM
+K rtc
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002266H.pdf
+$ENDCMP
+#
+$CMP NC7WZ04
+D Dual Inverter
+K inverter
+F http://www.onsemi.com/pub/Collateral/NC7WZ04-D.PDF
+$ENDCMP
+#
+$CMP NC7WZ07
+D Dual Buffer Open-Drain Outputs
+K buffer open drain
+F http://www.onsemi.com/pub/Collateral/NC7WZ07-D.pdf
+$ENDCMP
+#
+$CMP NC7WZ16
+D Dual Buffer
+K buffer
+F http://www.onsemi.com/pub/Collateral/NC7WZ16-D.PDF
+$ENDCMP
+#
+$CMP NC7WZ17
+D Dual Buffer with Schmitt Trigger Inputs
+K buffer Schmitt
+F http://www.onsemi.com/pub/Collateral/NC7WZ17-D.PDF
+$ENDCMP
+#
+$CMP NUD3112
+D Integrated Relay, Inductive Load Driver
+K switch
+F www.onsemi.com/pub/Collateral/NUD3112-D.PDF
+$ENDCMP
+#
+$CMP OPA2377
+D 5MHz, Low-Noise, CMOS Operational Amplifier
+K opamp low noise RRIO
+F http://www.ti.com/lit/ds/symlink/opa2377.pdf
+$ENDCMP
+#
+$CMP OPA377
+D 5MHz, Low-Noise, CMOS Operational Amplifier
+K opamp low noise RRIO
+F http://www.ti.com/lit/ds/symlink/opa2377.pdf
+$ENDCMP
+#
+$CMP OPA381
+D Precision, Low Power, 18MHz Transimpedance Amplifier
+K TIA opamp transimpedance
+F http://www.ti.com/lit/ds/symlink/opa381.pdf
+$ENDCMP
+#
+$CMP PCT2075DP
+D Digital Temperature Sensor, 1C Accuracy and Thermal Watchdog
+K temperature sensor
+F https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf
+$ENDCMP
+#
+$CMP SN74AVC16T245
+D 16-Bit Dual-Supply Bus Transceiver with Configurable Level-Shifting/Voltage Translation and Tri-State Outputs
+K level shifter
+F http://www.ti.com/lit/ds/symlink/sn74avc16t245.pdf
+$ENDCMP
+#
+$CMP SN74LV4051A
+D Analog 8 to 1 Multiplexer
+K MUX MUX8
+F http://www.ti.com/lit/gpn/sn74lv4051a
+$ENDCMP
+#
+$CMP SN74LVC1G08
+D 2-Input AND
+K and and2
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G11
+D 3-input AND
+K and and3
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g11.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G3157
+D Single-Pole Double-Throw Analog Switch
+K switch MUX MUX2
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf
+$ENDCMP
+#
+$CMP SN74LVC2G132
+D Dual 2-input NAND Schmitt trigger
+K nand
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g132.pdf
+$ENDCMP
+#
+$CMP TLC5940RHB
+D 16-Channel LED Driver With DOT Correction and Grayscale PWM Control, VQFN package with thermal pad
+K PWM LED driver
+F http://www.ti.com/lit/ds/symlink/tlc5940.pdf
+$ENDCMP
+#
+$CMP TLV333
+D CMOS Operational Amplifiers Zero-Drift
+K opamp zero drift RRIO
+F http://www.ti.com/lit/ds/symlink/tlv333.pdf
+$ENDCMP
+#
+$CMP TLV9001
+D Low-Power, RRIO, 1-MHz Operational Amplifier
+K opamp RRIO
+F www.ti.com/lit/ds/symlink/tlv9002.pdf
+$ENDCMP
+#
+$CMP TLV9061
+D RRIO, 10-MHz Operational Amplifier
+K opamp RRIO
+F www.ti.com/lit/ds/symlink/tlv9062.pdf
+$ENDCMP
+#
+$CMP TLVH431
+D Low-Voltage Adjustable Precision Shunt Regulator
+K regulator comparator
+F http://www.ti.com/lit/ds/symlink/tlvh431a.pdf
+$ENDCMP
+#
+$CMP TPS22958
+D 5.5V, 4A, 14mOhms Load Switch with Adjustable Rise Time
+K power switch
+F http://www.ti.com/lit/ds/symlink/tps22958.pdf
+$ENDCMP
+#
+$CMP TPS3808G09
+D Low-Quiescent-Current, Programmable-Delay Supervisory Circuit
+K power supervisor delay
+F http://www.ti.com/lit/ds/symlink/tps3808.pdf
+$ENDCMP
+#
+$CMP TPS3808G33
+D Low-Quiescent-Current, Programmable-Delay Supervisory Circuit
+K power supervisor delay
+F http://www.ti.com/lit/ds/symlink/tps3808.pdf
+$ENDCMP
+#
+$CMP TPS51200
+D Sink and Source DDR Termination Regulator
+K power switch
+F http://www.ti.com/lit/ds/symlink/tps51200.pdf
+$ENDCMP
+#
+$CMP TPS54531
+D 5A, 28V Input, Step-Down, DC-DC Converter
+K power supply regulator
+F http://www.ti.com/lit/ds/symlink/tps54531.pdf
+$ENDCMP
+#
+$CMP TPS659037
+D Power Management Unit (PMU) for AM57xx Processors
+K PMU regulator
+F http://www.ti.com/lit/ds/symlink/tps659037.pdf
+$ENDCMP
+#
+$CMP USB2512B
+D 2-port USB 2.0 Hi-Speed Hub Controller
+K usb
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
+$ENDCMP
+#
+$CMP USB2513B
+D 3-port USB 2.0 Hi-Speed Hub Controller
+K usb
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
+$ENDCMP
+#
+$CMP VN5050J-E
+D Single channel high side driver
+K power switch
+F www.st.com/resource/en/datasheet/vn5050j-e.pdf
+$ENDCMP
+#
+$CMP VNH5019A-E
+D Fully Integrated H-bridge Motor Driver
+K h-bridge automotive
+F http://www.st.com/resource/en/datasheet/vnh5019a-e.pdf
+$ENDCMP
+#
+$CMP eMMC
+D eMMC Memory
+K eMMC memory
+$ENDCMP
+#
+#End Doc Library
